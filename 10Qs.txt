@@ -1,0 +1,197 @@
+1.	 An entrepreneur from State A decided to sell hot sauce to 
+the public, labeling it “Best Hot Sauce.” 
+A company incorporated in State B and headquartered in 
+State C sued the entrepreneur in federal court in State C. 
+The complaint sought $50,000 in damages and alleged 
+that the entrepreneur’s use of the name “Best Hot Sauce” 
+infringed the company’s federal trademark. The entrepreneur filed an answer denying the allegations, and the parties 
+began discovery. Six months later, the entrepreneur moved 
+to dismiss for lack of subject-matter jurisdiction. 
+Should the court grant the entrepreneur’s motion? 
+(A) No, because the company’s claim arises under federal 
+law. 
+(B) No, because the entrepreneur waived the right to challenge subject-matter jurisdiction by not raising the issue 
+initially by motion or in the answer. 
+(C) Yes, because although the claim arises under federal 
+law, the amount in controversy is not satisfied. 
+(D) Yes, because although there is diversity, the amount in 
+controversy is not satisfied. 
+2.	 An investor from State A filed an action against his State B 
+stockbroker in federal court in State A. The summons and 
+complaint were served at the stockbroker’s office in State 
+B, where the process server handed the documents to the 
+stockbroker’s administrative assistant. 
+The stockbroker has answered the complaint, asserting the 
+defense of improper service of process. Assume that both 
+states’ requirements for service of process are identical to 
+the requirements of the Federal Rules of Civil Procedure. 
+Is the court likely to dismiss the action for improper service 
+of process? 
+(A) No, because service was made on a person of suitable 
+age found at the stockbroker’s place of employment. 
+(B) No, because the stockbroker waived her claim for 
+improper service of process by asserting it in her 
+answer. 
+(C) Yes, because an individual defendant may not be 
+served by delivering process to a third party found at 
+the defendant’s place of employment. 
+(D) Yes, because the process of State A courts is not effective in State B. 
+3.	 A truck driver from State A and a bus driver from State B 
+were involved in a collision in State B that injured the truck 
+driver. The truck driver filed a federal diversity action in 
+State B based on negligence, seeking $100,000 in damages from the bus driver. 
+What law of negligence should the court apply? 
+(A) The court should apply the federal common law of 
+negligence. 
+(B) The court should apply the negligence law of State A, 
+the truck driver’s state of citizenship. 
+(C) The court should consider the negligence law of both 
+State A and State B and apply the law that the court 
+believes most appropriately governs negligence in this 
+action. 
+(D) The court should determine which state’s negligence 
+law a state court in State B would apply and apply that 
+law in this action. 
+4.	 A patent holder brought a patent infringement action in federal court against a licensee of the patent. The patent holder 
+believed that a jury would be more sympathetic to his claims 
+than a judge, and asked his lawyer to obtain a jury trial. 
+What should the lawyer do to secure the patent holder’s 
+right to a jury trial? 
+(A) File and serve a complaint that includes a jury trial 
+demand. 
+(B) File and serve a jury trial demand at the close of 
+discovery. 
+(C) File and serve a jury trial demand within 30 days after 
+the close of the pleadings. 
+(D) Make a jury trial demand at the initial pretrial 
+conference. 
+5. A consumer from State A filed a $100,000 products liability
+action in federal court against a manufacturer incorporated
+and with its principal place of business in State B. The consumer claimed that a flaw in the manufacturer’s product had 
+resulted in severe injuries to the consumer. In its answer,
+the manufacturer asserted a third-party complaint against
+the product designer, also incorporated and with its principal 
+place of business in State B. Believing that the consumer had 
+sued the wrong defendant, the manufacturer claimed both
+that the designer was solely responsible for the flaw that had 
+led to the consumer’s injuries and that the manufacturer was 
+not at fault. 
+7. After being fired, a woman sued her former employer in 
+federal court, alleging that her supervisor had discriminated 
+against her on the basis of her sex. The woman’s complaint 
+included a lengthy description of what the supervisor had 
+said and done over the years, quoting his telephone calls and 
+emails to her and her own emails to the supervisor’s manager 
+asking for help. 
+The designer is aware that the manufacturer did not follow all 
+of the designer’s specifications when making the product. 
+Which of the following arguments is most likely to achieve the 
+designer’s goal of dismissal of the third-party complaint? 
+(A) The court does not have subject-matter jurisdiction over 
+the third-party complaint, because both the manufacturer 
+and the designer are citizens of State B. 
+(B) The manufacturer failed to obtain the court’s leave to file 
+the third-party complaint. 
+(C) The manufacturer’s failure to follow the designer’s specifications caused the flaw that resulted in the consumer’s 
+injuries. 
+(D) The manufacturer’s third-party complaint failed to state a 
+proper third-party claim. 
+6.	 A wholesaler brought a federal diversity action against a large 
+pharmaceutical company for breach of contract. During jury 
+selection, one potential juror stated that five years earlier he 
+had been an employee of the company and still owned several hundred shares of its stock. In response to questioning 
+from the judge, the potential juror stated that he could fairly 
+consider the evidence in the case. 
+The wholesaler’s attorney has asked the judge to strike the 
+potential juror for cause. 
+Should the judge strike the potential juror for cause? 
+(A) No, because the potential juror said that he could fairly 
+consider the evidence in the case. 
+(B) No, because the wholesaler’s attorney could use a 
+peremptory challenge to strike the potential juror. 
+(C) Yes, because other potential jurors still remain available 
+for the jury panel. 
+(D) Yes, because the potential juror is presumed to be 
+biased because of his relationship to the company. 
+7. After being fired, a woman sued her former employer in 
+federal court, alleging that her supervisor had discriminated 
+against her on the basis of her sex. The woman’s complaint 
+included a lengthy description of what the supervisor had 
+said and done over the years, quoting his telephone calls and 
+emails to her and her own emails to the supervisor’s manager 
+asking for help. 
+The employer moved for summary judgment, alleging that the 
+woman was a pathological liar who had filed the action and 
+included fictitious documents in revenge for having been fired. 
+Because the woman’s attorney was at a lengthy out-of-state 
+trial when the summary-judgment motion was filed, he failed 
+to respond to it. The court therefore granted the motion in a 
+one-line order and entered final judgment. The woman has 
+appealed. 
+Is the appellate court likely to uphold the trial court’s ruling? 
+(A) No, because the complaint’s allegations were detailed 
+and specific. 
+(B) No, because the employer moved for summary judgment 
+on the basis that the woman was not credible, creating a 
+factual dispute. 
+(C) Yes, because the woman’s failure to respond to the 
+summary-judgment motion means that there was no 
+sworn affidavit to support her allegations and supporting 
+documents. 
+(D) Yes, because the woman’s failure to respond to the 
+summary-judgment motion was a default giving sufficient 
+basis to grant the motion. 
+8.	 A man brought a federal diversity action against his insurance 
+company, alleging that the company had breached its duty 
+under his insurance policy by refusing to pay for his medical 
+expenses resulting from a mountain-biking accident. 
+At the jury trial, the man presented evidence that he had paid 
+all premiums on the insurance policy and that the policy covered personal-injury-related medical expenses arising from 
+accidents. After he rested his case, the company presented 
+evidence that a provision of the policy excluded payment for 
+injury-related expenses resulting from an insured’s “unduly 
+risky” behavior. The company also presented a witness who 
+testified that the accident had occurred in an area where 
+posted signs warned bikers not to enter. The man did not 
+cross-examine the witness. 
+After resting its case, the company moved for judgment as a 
+matter of law. 
+Should the court grant the motion? 
+(A) No, because a motion for judgment as a matter of law 
+must first be made at the close of the plaintiff’s case-inchief. 
+(B) No, because whether the man’s behavior was unduly 
+risky is a question of fact for the jury to resolve. 
+(C) Yes, because the company’s uncontradicted evidence of 
+the man’s unduly risky behavior means that no reasonable jury could find that the policy covers his injuries. 
+(D) Yes, because the man waived his right to rebut the 
+company’s evidence by not addressing the “unduly risky” 
+policy provision in his case-in-chief. 
+9.	 A motorcyclist was involved in a collision with a truck. The 
+motorcyclist sued the truck driver in state court for damage to 
+the motorcycle. The jury returned a verdict for the truck driver, 
+and the court entered judgment. The motorcyclist then sued 
+the company that employed the driver and owned the truck in 
+federal court for personal-injury damages, and the company 
+moved to dismiss based on the state-court judgment. 
+If the court grants the company’s motion, what is the likely 
+explanation? 
+(A) Claim preclusion (res judicata) bars the motorcyclist’s 
+action against the company. 
+(B) Issue preclusion (collateral estoppel) establishes the 
+company’s lack of negligence. 
+(C) The motorcyclist violated the doctrine of election of 
+remedies. 
+(D) The state-court judgment is the law of the case. 
+10. A student at a private university sued the university in federal court for negligence after he fell from scaffolding in a 
+university-owned theater building. At trial, after briefing from 
+both parties, the court permitted the jury to hear testimony 
+that there had been several previous accidents in the same 
+building. The jury found for the student, and the university 
+appealed. One of the university’s arguments on appeal is that 
+the testimony about the previous accidents should have been 
+excluded as irrelevant and highly prejudicial. 
+Which standard of review applies to this argument? 
+(A) Abuse of discretion. 
+(B) Clearly erroneous. 
+(C) De novo. 
+(D) Harmless error
